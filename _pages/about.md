@@ -11,7 +11,6 @@ profile:
   address: >
     <p>Computational biologist</p>
     <p>Postdoctoral fellow at Genome Sciences department, UW</p>
-    <p>Seattle 98115</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -26,11 +25,11 @@ I am a postdoctoral fellow with [Dr. William Noble](https://noble.gs.washington.
 Before this, I did my undergraduate studies at Tsinghua University, and my graduate studies at Princeton University, supervised by [Dr. Olga Troyanskaya](https://function.princeton.edu/).
 
 I am interested in developing machine learning methods to tackle biology-related problems. 
-I started as a wet-lab biologist in undergrad, where I used a series to experimental approaches -- including imaging, biochemistry, cell biology -- to study the autophagy process in human cell lines.
+I started as a wet-lab biologist in undergrad, where I used a series to experimental approaches -- including imaging, biochemistry, cell biology -- to study the autophagy process in human cell lines and yeast.
 My graduate work is focused on integrating large scale biological datasets and applying network-based approaches to predict context-specific disease genes and pathways in neurodevelopmental and neurodegenerative diseases and disorders.
-In my postdoc, I am working on integrating and translating multi-omics single cell profiles across data modality, time and species.
+During my postdoc studies, I am working on integrating and translating multi-omics single cell profiles across data modality, time and species.
 
-My specific research interests include:
+My research interests include:
 * Single cell cross-modality translation to impute missing data modalities
 * Cross-species imputation to transfer knowledge in model organisms to human
 * Reprioritization of disease genes using context-specific gene-gene relationship networks

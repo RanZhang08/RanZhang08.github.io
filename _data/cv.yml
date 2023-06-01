@@ -18,7 +18,7 @@
       description:
         - Majored in Biological Sciences
 
-- title: Experience
+- title: Work experience
   type: time_table
   contents:
     - title: Postdoctoral fellow
@@ -49,4 +49,21 @@
         - Studied the role of Atg8 in autophagy process in yeast
         - Supervised by Professor Li Yu
 
+
+- title: Teaching experience
+  type: time_table
+  contents:
+    - title: Teaching Assistant to Introduction to Cellular and Molecular Biology
+      institution: Princeton University
+      year: 2015
+      description:
+        - undergraduate class
+        - Led and graded weekly experiments, led class discussions
+
+    - title: Teaching Assistant to Quantitative Principles in Cell and Molecular Biology
+      institution: Princeton University
+      year: 2014
+      description:
+        - undergraduate class
+        - Led and graded weekly experiments, held office hours and designed exam and quiz questions
 

@@ -11,10 +11,9 @@ nav_order: 5
 
 4DN annual meeting (2022, poster)
 
+**Mapping single cell profiles across time.**
 
-**Prediction of continuous shifts of single cell profiles during mouse embryonic development.**
-
-4DN-UW meeting (2021, talk)
+4D-Genome meeting (2022, talk)
 
 
 **Semi-supervised single-cell cross-modality translation using Polarbear.**
@@ -27,14 +26,14 @@ Research in Computational Molecular Biology (RECOMB, 2022, talk)
 Machine learning in bioinformatics (MLCB, 2021, talk)
 
 
-**Single cell alignment across domains in WTC-11.**
-
-4DN IOWG workshop (2021, talk)
-
-
 **Semi-supervised single-cell cross-modality translation.**
 
-4DN-UW meeting (2021, talk)
+4D-Genome meeting (2021, talk)
+
+
+**Single cell alignment across domains in WTC-11.**
+
+4DN IOWG meeting (2020, talk)
 
 
 **Understanding microglia functional rewiring and disease association through developmental stage specific networks.**
