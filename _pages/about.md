@@ -19,6 +19,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
+[Google Scholar](https://scholar.google.com/citations?user=mnTncLgAAAAJ&hl=en/), 
+[ORCID](https://orcid.org/0000-0002-7630-1251)
+
 I am a postdoctoral fellow with [Dr. William Noble](https://noble.gs.washington.edu/~wnoble/) in the Genome Sciences department at the University of Washington. 
 Before this, I did my undergraduate studies at Biological Sciences department at Tsinghua University, and my graduate studies at Molecular Biology department at Princeton University, supervised by [Dr. Olga Troyanskaya](https://function.princeton.edu/).
 
