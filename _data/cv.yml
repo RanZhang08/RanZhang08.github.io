@@ -1,11 +1,3 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Name
-      value: Ran Zhang
-    - name: email
-      value: ranz0@uw.edu
-
 - title: Education
   type: time_table
   contents:
@@ -29,19 +21,12 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Research Assistant
-      institution: Tsinghua University
-      year: Jan 2011 - June 2012
+    - title: Postdoctoral fellow
+      institution: University of Washington
+      year: Feb 2020 - now
       description:
-        - Studied the role of Atg8 in autophagy process in yeast
-        - Supervised by Professor Li Yu
-
-    - title: Research Assistant
-      institution: University of Michigan
-      year: summer 2011
-      description:
-        - Studied the role of Atg8 in autophagy process in yeast
-        - Supervised by Professor Daniel Klionsky
+        - Develop computation methods for cross modality, time and species imputation
+        - Supervised by Professor William Noble
 
     - title: Postdoctoral fellow
       institution: Princeton University
@@ -50,11 +35,18 @@
         - Studied regional roles of astrocytes in Alzheimer's disease
         - Supervised by Professor Olga Troyanskaya
 
-    - title: Postdoctoral fellow
-      institution: University of Washington
-      year: Feb 2020 - now
+    - title: Research Assistant
+      institution: University of Michigan
+      year: summer 2011
       description:
-        - Develop computation methods for cross modality, time and species imputation
-        - Supervised by Professor William Noble
+        - Studied the role of Atg8 in autophagy process in yeast
+        - Supervised by Professor Daniel Klionsky
+
+    - title: Research Assistant
+      institution: Tsinghua University
+      year: Jan 2011 - June 2012
+      description:
+        - Studied the role of Atg8 in autophagy process in yeast
+        - Supervised by Professor Li Yu
 
 
