@@ -25,12 +25,12 @@ I am a UW Data Science postdoctoral fellow with [Dr. William Noble](https://nobl
 Before this, I did my undergraduate studies at Tsinghua University, and my graduate studies at Princeton University, supervised by [Dr. Olga Troyanskaya](https://function.princeton.edu/).
 
 I am interested in developing machine learning methods to tackle biology-related problems. 
-I started as a wet-lab biologist in undergrad, where I used a combination to experimental approaches -- including imaging, biochemistry, cell biology -- to study autophagy in human cell lines and yeast.
-My graduate work is focused on integrating large scale biological datasets and applying network-based approaches to predict context-specific disease genes and pathways in neurodevelopmental and neurodegenerative diseases and disorders.
-During my postdoc studies, I am working on integrating and translating multi-omics single cell profiles across data modality, time and species.
+I started as a wet-lab biologist in undergrad, where I used a combination of experimental approaches -- including imaging, biochemistry, cell biology -- to study autophagy in human cell lines and yeast.
+My graduate work is focused on integrating large-scale functional genomics datasets and applying network-based approaches to predict context-specific disease genes and pathways in neurodevelopmental and neurodegenerative diseases and disorders.
+During my postdoc studies, I develop deep learning methods to integrate and translate single-cell multi-omics profiles across data modality, time and species, to generate biological hypothesis in biological contexts or data modalities where experimental measurement is scarse.
 
 My research interests include:
-* Single cell cross-modality translation to impute missing data modalities
-* Cross-species imputation to transfer knowledge in model organisms to human
+* Single-cell cross-modality translation to predict cellular profiles in missing data modalities
+* Cross-species imputation to transfer knowledge from model organisms to human
 * Reprioritization of disease genes using context-specific gene-gene relationship networks
-* Data integration across data modalities, biological contexts, time, and species
+* Data integration across modalities, biological contexts, time, and species
