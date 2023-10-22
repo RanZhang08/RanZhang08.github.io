@@ -11,7 +11,7 @@
             - Genome-wide prediction and functional characterization of autism spectrum disorder
             - Developmental-specific role of Psen1 in microglia development and Alzheimer's disease
             - Regional-specific role of astrocytes in Alzheimer's disease
-            - Cross-species data integration for hundreds of public datasets to understand context-specific functional gene-gene interactions
+            - Tissue-aware framework for unraveling rare and complex diseases using biomedical literature
     - title: BS
       institution: Tsinghua University
       year: 2012
@@ -25,29 +25,29 @@
       institution: University of Washington
       year: Feb 2020 - now
       description:
-        - Develop computation methods for cross modality, time and species imputation
         - Supervised by Professor William Noble
+        - Develop computation methods for cross modality, time and species prediction
 
     - title: Postdoctoral fellow
       institution: Princeton University
       year: Sep 2019-Jan 2020
       description:
-        - Studied regional roles of astrocytes in Alzheimer's disease
         - Supervised by Professor Olga Troyanskaya
+        - Studied the role of astrocytes in neurological diseases and disorders
 
     - title: Research Assistant
       institution: University of Michigan
       year: summer 2011
       description:
-        - Studied the role of Atg8 in autophagy process in yeast
+        - Studied the role of Atg8 in autophagy in yeast
         - Supervised by Professor Daniel Klionsky
 
     - title: Research Assistant
       institution: Tsinghua University
       year: Jan 2011 - June 2012
       description:
-        - Studied the role of Atg8 in autophagy process in yeast
         - Supervised by Professor Li Yu
+        - Studied the role of ATG5 and ATG7 in the autophagy process in human cell lines
 
 
 - title: Teaching experience
