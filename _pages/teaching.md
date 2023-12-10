@@ -8,51 +8,64 @@ nav_order: 5
 ---
 
 
+**What we have learned trying to match images and omics in WTC11.**
+
+  -- 4DN IOWG Meeting (2023, talk)
+
+
 **Integration and prediction of genomics data across modality, time, and species.**
 
   -- Biology Department, Western Washington University (2023, seminar)
 
-<!---**.**
+
+**Multi-condition/modality inference of single-cell profiles during mouse embryonic development.**
 
   -- 4D Genome center (2023, talk)
+
+  -- 4D Nucleome annual meeting (2023, talk)
+
+
+**Cross-species imputation and comparison of single-cell transcriptomics profilesa.**
+
+  -– UW 4DN-genome meeting (2023, talk)
+
 
 **Mapping single cell profiles across time.**
 
   -- 4D-Genome center (2022, talk)
 
 
-
-**Semi-supervised single-cell cross-modality translation.**
-
-  -- 4D-Genome center (2021, talk)
-
-**Single cell alignment across domains in WTC-11.**
-
-  -- 4D Nucleome NOFIC-AICS working group (2020, talk)
-
--->
-
-**Integration and imputation of genomics data across modality, time, and species.**
+**Integration and imputation of functional genomics data across modality, time, and species.**
 
   -- Department of Genome Sciences, University of Washington (2023, seminar)
+
 
 **Prediction of continuous shifts of single cell profiles during mouse embryonic development.**
 
   -- 4D Nucleome annual meeting (2022, poster)
 
+
 **Semi-supervised single-cell cross-modality translation using Polarbear.**
 
   -- Research in Computational Molecular Biology (RECOMB, 2022, talk)
 
-
-**Semi-supervised single-cell cross-modality translation using Polarbear.**
-
   -- Machine learning in bioinformatics (MLCB, 2021, talk)
+
+  -- 4D-Genome center (2021, talk)
+
+
+**Single cell alignment across domains in WTC-11.**
+
+  -- 4D Nucleome NOFIC-AICS working group (2020, talk)
+
+
+**Imputation of HFFc6 & WTC-11 1D profiles using Avocado.**
+  -- 4DN JAWG Meeting (2021)
 
 
 **Understanding microglia functional rewiring and disease association through developmental stage specific networks.**
 
-  -- CIFAR (2019, poster)
+  -- Canadian Institute for Advanced Research (CIFAR, 2019, poster)
 
 
 **Understanding microglia functional rewiring and disease association through developmental stage specific networks.**
