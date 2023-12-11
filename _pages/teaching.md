@@ -7,6 +7,12 @@ nav: true
 nav_order: 5
 ---
 
+**Multi-condition and multimodal single-cell temporal profile inference during mouse embryonic development**
+
+  -- 4D Genome center (2023, talk)
+
+  -- 4D Nucleome annual meeting (2023, talk)
+
 
 **What we have learned trying to match images and omics in WTC11.**
 
@@ -18,11 +24,10 @@ nav_order: 5
   -- Biology Department, Western Washington University (2023, seminar)
 
 
-**Multi-condition/modality inference of single-cell profiles during mouse embryonic development.**
 
-  -- 4D Genome center (2023, talk)
+**Integration and imputation of functional genomics data across modality, time, and species.**
 
-  -- 4D Nucleome annual meeting (2023, talk)
+  -- Department of Genome Sciences, University of Washington (2023, seminar)
 
 
 **Cross-species imputation and comparison of single-cell transcriptomics profilesa.**
@@ -33,11 +38,6 @@ nav_order: 5
 **Mapping single cell profiles across time.**
 
   -- 4D-Genome center (2022, talk)
-
-
-**Integration and imputation of functional genomics data across modality, time, and species.**
-
-  -- Department of Genome Sciences, University of Washington (2023, seminar)
 
 
 **Prediction of continuous shifts of single cell profiles during mouse embryonic development.**
@@ -54,14 +54,14 @@ nav_order: 5
   -- 4D-Genome center (2021, talk)
 
 
-**Single cell alignment across domains in WTC-11.**
-
-  -- 4D Nucleome NOFIC-AICS working group (2020, talk)
-
-
 **Imputation of HFFc6 & WTC-11 1D profiles using Avocado.**
 
   -- 4DN JAWG Meeting (2021)
+
+
+**Single cell alignment across domains in WTC-11.**
+
+  -- 4D Nucleome NOFIC-AICS working group (2020, talk)
 
 
 **Understanding microglia functional rewiring and disease association through developmental stage specific networks.**
