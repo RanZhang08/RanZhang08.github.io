@@ -9,7 +9,7 @@ nav_order: 5
 
 **Multi-condition and multimodal single-cell temporal profile inference during mouse embryonic development**
 
-  -- 4D Genome center (2023, talk)
+  -- 4D-Genome center (2023, talk)
 
   -- 4D Nucleome annual meeting (2023, talk)
 
@@ -32,7 +32,7 @@ nav_order: 5
 
 **Cross-species imputation and comparison of single-cell transcriptomics profilesa.**
 
-  -– UW 4DN-genome meeting (2023, talk)
+  -– 4D-Genome meeting (2023, talk)
 
 
 **Mapping single cell profiles across time.**
