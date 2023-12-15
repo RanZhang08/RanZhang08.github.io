@@ -56,7 +56,7 @@ nav_order: 5
 
 **Imputation of HFFc6 & WTC-11 1D profiles using Avocado.**
 
-  -- 4DN JAWG Meeting (2021)
+  -- 4DN JAWG Meeting (2021, talk)
 
 
 **Single cell alignment across domains in WTC-11.**
