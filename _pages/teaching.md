@@ -10,12 +10,14 @@ nav_order: 5
 **Multi-condition and multimodal single-cell temporal profile inference during mouse embryonic development**
 
   -- 4D-Genome center (2023, talk)
+
   -- 4D Nucleome annual meeting (2023, talk)
 
 
 **What we have learned trying to match images and omics in WTC11.**
 
   -- 4DN IOWG Meeting (2024, talk)
+
   -- 4DN IOWG Meeting (2023, talk)
 
 
