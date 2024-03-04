@@ -70,9 +70,6 @@ nav_order: 5
 
   -- Canadian Institute for Advanced Research (CIFAR, 2019, poster)
 
-
-**Understanding microglia functional rewiring and disease association through developmental stage specific networks.**
-
   -- Research in Computational Molecular Biology (RECOMB, 2019, poster)
 
 
@@ -85,13 +82,7 @@ nav_order: 5
 
   -- Intelligent Systems for Molecular Biology (ISMB, 2016, poster)
 
-
-**Genome-wide prediction and functional characterization of the genetic basis of autism spectrum disorder.**
-
   -- NY Area Meeting in Quantitative Biology (2016, talk)
-
-
-**Genome-wide prediction and functional characterization of the genetic basis of autism spectrum disorder.**
 
   -- Computational Systems for Integrative Genomics (2016, talk)
 
