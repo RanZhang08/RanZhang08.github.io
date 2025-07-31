@@ -18,11 +18,14 @@ social: false  # includes social icons at the bottom of the page
 
 [Google Scholar](https://scholar.google.com/citations?user=mnTncLgAAAAJ&hl=en/), 
 [ORCID](https://orcid.org/0000-0002-7630-1251)
+[CV](/assets/pdf/RanZhang_cv.pdf)
 
-I am a UW Data Science postdoctoral fellow with [Dr. William Noble](https://noble.gs.washington.edu/~wnoble/) at the University of Washington. My work is supported by the NIH Pathway to Independence Award from NHGRI.
-Before this, I did my undergraduate studies at Tsinghua University and my graduate studies at Princeton University, supervised by [Dr. Olga Troyanskaya](https://function.princeton.edu/).
+I am an assistant professor at the School of Data Science and Society, UNC-Chapel Hill.
+Previously, I was a UW Data Science postdoctoral fellow with [Dr. William Noble](https://noble.gs.washington.edu/~wnoble/) at the University of Washington. I did my undergraduate studies at Tsinghua University and my graduate studies at Princeton University, supervised by [Dr. Olga Troyanskaya](https://function.princeton.edu/).
 
-<span style="color:navy;">**In July 2025, I will start my independent lab at the School of Data Science and Society, UNC-Chapel Hill. I am looking for prospective PhD students and Postdocs interested in developing and applying machine learning methods to understand tissue/cellular regulations and complex human diseases.**</span> If you are interested, please email your CV, a short description (in than one page) of research interests to ranz0 at uw.edu
+My work is supported by the K99/R00 NIH Pathway to Independence Award from NHGRI.
+
+<span style="color:navy;">**I am looking for prospective PhD students and Postdocs interested in developing and applying machine learning methods to understand tissue/cellular regulations and complex human diseases.**</span> If you are interested, please email your CV, a short description (in than one page) of research interests to ranzhang at unc.edu
 
 I started my career as a wet lab biologist in undergraduate studies. I used a combination of experimental approaches -- including imaging, biochemistry, and cell biology -- to study autophagy in human cell lines and yeast.
 My graduate work is focused on integrating large-scale functional genomics datasets and applying network-based approaches to predict context-specific disease genes and pathways in neurodevelopmental and neurodegenerative diseases and disorders.
