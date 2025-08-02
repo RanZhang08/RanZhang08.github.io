@@ -51,11 +51,11 @@
                   {%- endif -%}
                 </a>
               </li>
-              {% if site.research_nav_title %}
-              <!-- research -->
-              <li class="nav-item {% if page.url contains 'research' %}active{% endif %}">
-                <a class="nav-link" href="{{ '/research/' | relative_url }}">{{ site.research_nav_title }}
-                  {%- if page.url contains 'research' -%}
+              {% if site.projects_nav_title %}
+              <!-- projects -->
+              <li class="nav-item {% if page.url contains 'projects' %}active{% endif %}">
+                <a class="nav-link" href="{{ '/projects/' | relative_url }}">{{ site.projects_nav_title }}
+                  {%- if page.url contains 'projects' -%}
                   <span class="sr-only">(current)</span>
                   {%- endif -%}
                 </a>
