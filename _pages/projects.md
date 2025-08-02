@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /projects/
-description: Research directions of the lab.
+description: research directions of the lab
 nav: true
 nav_order: 2
 display_categories: [work, fun]
