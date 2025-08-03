@@ -5,9 +5,12 @@ permalink: /projects/
 description: research directions of the lab
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+#display_categories: [work, fun]
 horizontal: true
 ---
+
+Our lab develops machine learning methods for high-dimensional, sparse, heterogeneous, and multimodal genomics data. Our research is motivated by the gap between the complexity of cellular and molecular regulations and the limited and partial observations we have on them. To bridge the gap, we are interested in developing network-based and deep learning methods that leverage large-scale public data and prior biological knowledge to characterize multimodal views of cells, transfer experimental observations from model organisms to human, and unravel genes and processes underlying human diseases and sex differences.
+
 
 <!-- pages/projects.md -->
 <div class="projects">
