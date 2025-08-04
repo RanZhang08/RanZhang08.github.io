@@ -26,9 +26,9 @@ Cellular functions are coordinated through dynamic interactions among diverse mo
 </div>
 
 Selected publications: 
-- ”Multimodal Single- Cell Translation and Alignment with Semi-Supervised Learning” Journal of Computational Biology (2022)
-- ”Semi-supervised single-cell cross-modality translation using Polarbear” International Conference on Research in Computational Molecular Biology (2022)
-- ”Multicondition and multimodality single-cell temporal profile inference during mouse embryonic development” Genome Research (2025, in press)
+- [”Multimodal Single- Cell Translation and Alignment with Semi-Supervised Learning” Journal of Computational Biology (2022)](https://pubmed.ncbi.nlm.nih.gov/36251758/)
+- [”Semi-supervised single-cell cross-modality translation using Polarbear” International Conference on Research in Computational Molecular Biology (2022)](https://link.springer.com/chapter/10.1007/978-3-031-04749-7_2)
+- [”Multicondition and multimodality single-cell temporal profile inference during mouse embryonic development” Genome Research (2025, in press)](https://pubmed.ncbi.nlm.nih.gov/38496477/)
 
 <br>
 ## knowledge transfer across species
