@@ -26,8 +26,8 @@ Cellular functions are coordinated through dynamic interactions among diverse mo
 </div>
 
 Selected publications: 
-- [”Multimodal Single- Cell Translation and Alignment with Semi-Supervised Learning” Journal of Computational Biology (2022)](https://pubmed.ncbi.nlm.nih.gov/36251758/)
 - [”Semi-supervised single-cell cross-modality translation using Polarbear” International Conference on Research in Computational Molecular Biology (2022)](https://link.springer.com/chapter/10.1007/978-3-031-04749-7_2)
+- [”Multimodal Single- Cell Translation and Alignment with Semi-Supervised Learning” Journal of Computational Biology (2022)](https://pubmed.ncbi.nlm.nih.gov/36251758/)
 - [”Multicondition and multimodality single-cell temporal profile inference during mouse embryonic development” Genome Research (2025, in press)](https://pubmed.ncbi.nlm.nih.gov/38496477/)
 
 <br>
@@ -46,8 +46,8 @@ Model organisms, such as mouse, have been widely used to uncover molecular mecha
 </div>
 
 Selected publications: 
-- ”Identifying genes and pathways linking astrocyte regional specificity to Alzheimer’s disease susceptibility” bioRxiv
-- ”Cross-species imputation and comparison of single-cell transcriptomic profiles” Genome Biology (2025)
+- [”Identifying genes and pathways linking astrocyte regional specificity to Alzheimer’s disease susceptibility” bioRxiv](https://www.biorxiv.org/content/10.1101/2022.11.16.515390v1)
+- [”Cross-species imputation and comparison of single-cell transcriptomic profiles” Genome Biology (2025)](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03493-x)
 
 
 <br>
@@ -62,5 +62,5 @@ Complex diseases emerge from the combined effects of many genetic risk factors, 
 </div>
 
 Selected publications: 
-- "Genome-wide autism gene prediction and functional characterization” Nature Neuroscience (2016)
-- "Lack of a site-specific phosphorylation of Presenilin 1 disrupts microglial gene networks and progenitors during development" PLoS One (2020)
+- ["Genome-wide autism gene prediction and functional characterization” Nature Neuroscience (2016)](https://www.nature.com/articles/nn.4353)
+- ["Lack of a site-specific phosphorylation of Presenilin 1 disrupts microglial gene networks and progenitors during development" PLoS One (2020)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237773)
