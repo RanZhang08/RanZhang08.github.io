@@ -33,7 +33,7 @@ Selected publications:
 <br>
 ## knowledge transfer across species
 
-Model organisms, such as mouse, have been widely used to uncover molecular mechanisms relevant to human biology, particularly in contexts where human samples are scarce or inaccessible (e.g., the brain). However, evolutionary divergence between species poses significant challenges for direct knowledge transfer, often limiting the translational value of findings. Our lab develops network-based and deep learning approaches to project and contextualize experimental observations from model organisms, with the goal of improving our understanding of human health and disease.
+Model organisms, such as mouse, have been widely used to uncover molecular mechanisms relevant to human biology, particularly in contexts where human samples are scarce or inaccessible (e.g., the brain). However, evolutionary divergence between species poses significant challenges for direct knowledge transfer, often limiting the translational value of findings. Our lab develops network-based and deep learning approaches to project and contextualize large-scale genomics data from model organisms, with the goal of improving our understanding of human health and disease.
 
 <div class="row">
   <div class="col-sm-10 mt-3 mt-md-0">
@@ -51,9 +51,9 @@ Selected publications:
 
 
 <br>
-## network-based characterization of complex human diseases
+## network-based characterization of human diseases
 
-Complex diseases arise from the interplay of numerous genetic risk variants, environmental influences, and their context-dependent interactions across diverse biological systems. These conditions often present with heterogeneous phenotypes driven by coordinated dysregulation across multiple cell types and tissues. Our lab develops network-based approaches to systematically uncover genetic factors underlying complex disease etiology and to characterize their functional impact in tissue-specific, cell-type-specific, and single-cell contexts.
+Complex diseases emerge from the combined effects of many genetic risk factors, environmental exposures, and their context-dependent interactions across different biological systems. Our lab develops network-based machine learning approaches to mine large-scale, high-dimensional genomics data in public databases, to identify genetic contributors to disease and model their functional impact in tissue-specific, cell-type–specific, and single-cell contexts.
 
 <div class="row">
   <div class="col-sm-12 mt-3 mt-md-0">
