@@ -21,17 +21,15 @@ social: false  # includes social icons at the bottom of the page
 [CV](/assets/pdf/RanZhang_cv.pdf)
 
 I am an assistant professor at the School of Data Science and Society, UNC-Chapel Hill.
-Previously, I was a UW Data Science postdoctoral fellow with [Dr. William Noble](https://noble.gs.washington.edu/~wnoble/) at the University of Washington. I did my undergraduate studies at Tsinghua University and my graduate studies at Princeton University, supervised by [Dr. Olga Troyanskaya](https://function.princeton.edu/).
-
-My work is supported by the K99/R00 NIH Pathway to Independence Award from NHGRI.
-
-<span style="color:navy;">**I am looking for prospective PhD students and Postdocs interested in developing and applying machine learning methods to understand tissue/cellular regulations and complex human diseases.**</span> If you are interested, please email your CV, a short description (within one page) of your research interests to ranzhang at unc.edu
+Previously, I was a UW Data Science postdoctoral fellow with [Dr. William Noble](https://noble.gs.washington.edu/~wnoble/) at the University of Washington. I did my undergraduate studies at Tsinghua University and my graduate studies at Princeton University, supervised by [Dr. Olga Troyanskaya](https://function.princeton.edu/). My work is supported by the K99/R00 NIH Pathway to Independence Award from NHGRI.
 
 I started my career as a wet lab biologist in undergraduate studies. I used a combination of experimental approaches -- including imaging, biochemistry, and cell biology -- to study autophagy in human cell lines and yeast.
 My graduate work is focused on integrating large-scale functional genomics datasets and applying network-based approaches to predict context-specific disease genes and pathways in neurodevelopmental and neurodegenerative diseases and disorders.
 During my postdoc studies, I developed deep learning methods to integrate and translate single-cell multi-omics profiles across data modality, time, and species to generate biological hypotheses in biological contexts or data modalities where experimental measurement is scarce.
 
-My research interests include:
+My lab's research interests include:
 * Bulk and single-cell level cross-modality translation and integration
 * Cross-species prediction to transfer knowledge from model organisms to human
-* Characterizing genes and processes underlying complex human diseases, disorders, and conditions (e.g., Alzheimer's disease, Autism spectrum Disorder, Turner Syndrome)
+* Characterizing genes and processes underlying complex human diseases and disorders
+
+<span style="color:navy;">**We are looking for prospective PhD students and Postdocs interested in developing and applying machine learning methods to understand tissue/cellular regulations and complex human diseases.**</span> If you are interested, please email a CV and a short description (within one page) of research interests to ranzhang at unc.edu.

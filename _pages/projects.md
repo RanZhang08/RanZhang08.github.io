@@ -28,7 +28,7 @@ Cellular function are coordinated through dynamic interactions among diverse mol
 Selected publications: 
 - ”Multimodal Single- Cell Translation and Alignment with Semi-Supervised Learning” Journal of Computational Biology (2022)
 - ”Semi-supervised single-cell cross-modality translation using Polarbear” International Conference on Research in Computational Molecular Biology (2022)
-”Multicondition and multimodality single-cell temporal profile inference during mouse embryonic development” Genome Research (2025, in press)
+- ”Multicondition and multimodality single-cell temporal profile inference during mouse embryonic development” Genome Research (2025, in press)
 
 <br>
 ## transfer knowledge from model organisms to human
