@@ -32,4 +32,4 @@ My lab's research interests include:
 * Cross-species prediction to transfer knowledge from model organisms to human
 * Characterizing genes and processes underlying complex human diseases and disorders
 
-<span style="color:navy;">**We are looking for prospective PhD students and Postdocs interested in developing and applying machine learning methods to understand tissue/cellular regulations and complex human diseases.**</span> If you are interested, please email a CV and a short description (within one page) of research interests to ranzhang at unc.edu.
+<span style="color:navy;">**We are actively seeking motivated PhD students and postdoctoral researchers with an interest in developing and applying machine learning approaches to study tissue- and cell-level regulation, as well as the genetic basis of complex human diseases. If you are interested in joining our group, please send your CV and a brief (within one page) summary of your research interests to ranzhang [at] unc.edu.**</span> If interested, please email a CV and a short description (within one page) of research interests to ranzhang at unc.edu.
