@@ -19,7 +19,7 @@ Our lab develops machine learning methods for high-dimensional, sparse, heteroge
 
 <div class="row">
   <div class="col-sm-12 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/polarbear.pdf" title="" class="img-fluid rounded" %}
+    {% include figure.liquid path="assets/img/polarbear.png" title="" class="img-fluid rounded" %}
   </div>
 </div>
 
@@ -30,10 +30,11 @@ Cellular function are coordinated through dynamic interactions among diverse mol
 
 <div class="row">
   <div class="col-sm-10 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/icebear.pdf" title="" class="img-fluid rounded" %}
+    {% include figure.liquid path="assets/img/icebear.png" title="" class="img-fluid rounded" %}
   </div>
+  
   <div class="col-sm-12 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/astrocytes.pdf" title="" class="img-fluid rounded" %}
+    {% include figure.liquid path="assets/img/astrocytes.png" title="" class="img-fluid rounded" %}
   </div>
 </div>
 
@@ -44,7 +45,7 @@ Model organisms – such as mouse, zebrafish – have been widely used to uncove
 
 <div class="row">
   <div class="col-sm-12 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/asd.pdf" title="" class="img-fluid rounded" %}
+    {% include figure.liquid path="assets/img/asd.png" title="" class="img-fluid rounded" %}
   </div>
 </div>
 
