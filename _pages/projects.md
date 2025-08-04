@@ -9,7 +9,10 @@ nav_order: 2
 horizontal: true
 ---
 
-Our lab develops machine learning methods for high-dimensional, sparse, heterogeneous, and multimodal genomics data. Our research is motivated by the gap between the complexity of cellular and molecular regulations and the limited and partial observations we have on them. To bridge the gap, we are interested in developing network-based and deep learning methods that leverage large-scale public data and prior biological knowledge to characterize multimodal views of cells, transfer experimental observations from model organisms to human, and unravel genes and processes underlying human diseases and sex differences.
+Our lab develops machine learning methods for high-dimensional, sparse, heterogeneous, and multimodal genomics data. Our work is motivated by a fundamental gap: while cellular and molecular systems are inherently complex and dynamic, experimental measurements often only provide partial and limited observations. To address this challenge, we develop network-based and deep learning approaches that integrate large-scale public datasets -- including both bulk and single-cell data -- along with prior biological knowledge. Our research interests fall roughly in the following categories:
+- reconstruct multimodal representations of cells; 
+- transfer experimental insights from model organisms to human contexts
+- identify genes and pathways underlying human diseases and sex differences.
 
 <br>
 ## single-cell cross-modality prediction
