@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Open PhD and Postdoctoral positions in Computational Biology
-tab_title: Opportunities       # browser tab
+tab_title: opportunities       # browser tab
 permalink: /opportunities/
-nav: Opportunities             # shows in navbar
+nav: opportunities             # shows in navbar
 nav_order: 4
 horizontal: true
 ---

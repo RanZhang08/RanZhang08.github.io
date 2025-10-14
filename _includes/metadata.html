@@ -19,23 +19,23 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>
       {%- if site.title == "blank" -%}
-        {%- capture title -%}{{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}{%- endcapture -%}
+        {%- capture site_title -%}{{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}{%- endcapture -%}
       {%- else -%}
-        {%- capture title -%}{{ site.title }}{%- endcapture -%}
+        {%- capture site_title -%}{{ site.title }}{%- endcapture -%}
       {%- endif -%}
 
-      {% if page.tab_title %}
-        {{ page.tab_title }} | {{ title }}
-      {% elsif page.url == '/blog/index.html' %}
-        {{ site.blog_nav_title }} | {{ title }}
+      {%- if page.tab_title -%}
+        {{ page.tab_title }} | {{ site_title }}
+      {%- elsif page.url == '/blog/index.html' -%}
+        {{ site.blog_nav_title }} | {{ site_title }}
       {%- elsif page.title != "blank" and page.url != "/" -%}
         {%- if page.title == nil or page.title == "" -%}
-          {{ page.date | date: "%Y" }} | {{ title }}
+          {{ page.date | date: "%Y" }} | {{ site_title }}
         {%- else -%}
-          {{ page.title }} | {{ title }}
+          {{ page.title }} | {{ site_title }}
         {%- endif -%}
       {%- else -%}
-        {{ title }}
+        {{ site_title }}
       {%- endif -%}
     </title>
     <meta name="author" content="{{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}" />
