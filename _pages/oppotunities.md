@@ -1,7 +1,7 @@
 ---
 layout: page
-title: opportunities            # short title used by theme for browser tab and navbar
-header_title: "Open PhD and Postdoctoral positions in Computational Biology"  # custom page header
+title: opportunities                # short, for navbar & browser tab
+header_title: Open PhD and Postdoctoral positions in Computational Biology  # long page header
 permalink: /opportunities/
 nav: opportunities
 nav_order: 4
