@@ -2,12 +2,17 @@
 layout: default
 ---
 
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{% if page.tab_title %}{{ page.tab_title }}{% else %}{{ page.title }}{% endif %} | {{ site.title }}</title>
-  <!-- other head elements -->
-</head>
+<header class="post-header">
+  <h1 class="post-title">
+    {% if page.header_title %}
+      {{ page.header_title }}
+    {% else %}
+      {{ page.title }}
+    {% endif %}
+  </h1>
+  <p class="post-description">{{ page.description }}</p>
+</header>
+
 
 <!-- page.html -->
         <div class="post">
