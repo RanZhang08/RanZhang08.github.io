@@ -4,7 +4,7 @@ title: research
 permalink: /projects/
 #description: research directions of the lab
 nav: true
-nav_order: 2
+nav_order: 1
 #display_categories: [work, fun]
 horizontal: true
 ---
@@ -19,9 +19,9 @@ Our lab develops machine learning methods for high-dimensional, sparse, heteroge
 
 Biological systems can be represented through diverse assay types, or data modalities, each capturing a unique layer of molecular information and representing a partial view of the underlying system. Although biological processes and disease progression are inherently dynamic and involve multiple molecular layers, most high-throughput measurements capture only static snapshots. Our lab develops deep learning models that integrate large-scale public omics datasets to reconstruct multimodal cellular states and infer dynamic relationships across data modalities.
 
-<div class="row">
+<div class="text-center">
   <div class="col-sm-12 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/polarbear.png" title="Semi-supervised single-cell cross-modality translation model" class="img-fluid rounded" %}
+    {% include figure.liquid path="assets/img/polarbear.png" title="Semi-supervised single-cell cross-modality translation model" class="img-fluid rounded" style="width:80%;" %}
   </div>
 </div>
 
@@ -37,7 +37,7 @@ Selected publications:
 
 Biological systems operate through complex networks of interacting molecules that vary across tissues and cell types. We design network-based models to integrate multimodal omics data, uncover molecular interactions, and identify genetic drivers of disease in their specific biological contexts.
 
-<div class="row">
+<div class="text-center">
   <div class="col-sm-12 mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/asd.png" title="Evidence-weighted network-based classifier for systematic autism gene prediction" class="img-fluid rounded" %}
   </div>
@@ -54,7 +54,7 @@ Selected publications:
 
 Model organisms, such as mice, have been widely used to uncover molecular mechanisms relevant to human biology and diseases, especially when human samples are limited or inaccessible (e.g., the brain). However, evolutionary divergence between species create challenges for direct knowledge transfer, often limiting the translational value of findings. Our lab develops network and deep learning models to align, project, and contextualize data from model organisms, with the goal of improving data-driven insights into human disease.
 
-<div class="row">
+<div class="text-center">
   <div class="col-sm-10 mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/icebear.png" title="Cross-species prediction of single-cell transcriptomic profiles" class="img-fluid rounded" style="width:70%;" %}
   </div>

@@ -32,4 +32,4 @@ My lab's research interests include:
 * Cross-species prediction to transfer knowledge from model organisms to human
 * Characterizing genes and processes underlying complex human diseases and disorders
 
-We are actively seeking motivated undergraduate students, PhD students and postdoctoral researchers with interest/experience in the field of computational biology, data science, machine learning, and genomics. If you are interested in joining the group, please send your CV and a brief (within one page) summary of your research interests to ranzhang [at] unc.edu. For more details, please visit the Opportunity page.
+<strong>We are seeking motivated undergraduate students, PhD students, and postdoctoral researchers with interests in computational biology, data science, machine learning, and genomics. To apply, please send your CV and a brief summary of your research interests to ranzhang [at] unc.edu. PhD students and postdoctoral candidates can also visit the Opportunities page. Undergraduate students at UNC are encouraged to contact me to discuss potential research projects.</strong>
