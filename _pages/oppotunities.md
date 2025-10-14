@@ -3,7 +3,7 @@ layout: page
 title: Open PhD and Postdoctoral positions in Computational Biology
 permalink: /opportunities/
 #description: research directions of the lab
-nav: true
+nav: "Opportunities"
 nav_order: 4
 #display_categories: [work, fun]
 horizontal: true

@@ -31,7 +31,6 @@ Selected publications:
 - [”Multicondition and multimodality single-cell temporal profile inference during mouse embryonic development”](https://genome.cshlp.org/content/35/10/2339.long)
 
 <br>
-
 <br>
 ## network-guided discovery of human disease genes
 
@@ -48,7 +47,8 @@ Selected publications:
 - ["Lack of a site-specific phosphorylation of Presenilin 1 disrupts microglial gene networks and progenitors during development"](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237773)
 - ["Astrocyte-derived extracellular matrix proteins regulate synapse remodeling in stress-induced depression"](https://www.biorxiv.org/content/10.1101/2024.12.30.630684v1)
 
-
+<br>
+<br>
 
 ## knowledge transfer across species
 
