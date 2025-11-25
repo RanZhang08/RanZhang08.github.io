@@ -1,0 +1,20 @@
+.lab-members {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+  gap: 2rem;
+  margin-top: 1rem;
+}
+
+.lab-member-card {
+  text-align: center;
+}
+
+.lab-photo {
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 0.5rem;
+  box-shadow: 0 0 5px rgba(0,0,0,0.2);
+}
+
