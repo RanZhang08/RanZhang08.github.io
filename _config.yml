@@ -57,6 +57,9 @@ footer_fixed: true
 max_width: 800px
 
 # TODO: add layout settings (single page vs. multi-page)
+sass:
+  load_paths:
+    - assets/css
 
 # -----------------------------------------------------------------------------
 # Open Graph & Schema.org

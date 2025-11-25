@@ -1,9 +1,9 @@
 ---
 layout: page
-title: opportunities                # used by browser tab and navbar
+title: join                # used by browser tab and navbar
 header_title: Open PhD and Postdoctoral positions in Computational Biology  # page header
-permalink: /opportunities/
-nav: opportunities
+permalink: /join/
+nav: join
 nav_order: 4
 horizontal: true
 ---

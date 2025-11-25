@@ -1,0 +1,24 @@
+
+#- name: Ran Zhang
+#  role: Principal Investigator
+#  image: assets/img/lab/RanZhang.jpg
+#  bio: > 
+#    Ran is a assistant professor at the School of Data Science and Society. 
+#    Previously, she was a UW Data Science postdoctoral fellow with Dr. William Noble at the University of Washington. 
+#    She did her undergraduate studies at Tsinghua University and graduate studies at Princeton University, 
+#    supervised by Dr. Olga Troyanskaya.
+#    She is interested in developing machine learning approaches to unravel tissue and cellular complexity in human health and disease.
+    
+
+- name: Natalie Rittenhouse
+  role: Postdoctoral Researcher
+  image: assets/img/lab/NatalieRittenhouse.jpeg
+  bio: >
+    Natalie earned her PhD in Genetics and Molecular Biology at UNC- Chapel Hill, 
+    where she trained under Dr. Jill Dowen to investigate protein-protein interactions 
+    that regulate DNA organization and ensure proper gene expression. 
+    Building on this foundation, her current research utilizes machine learning approaches 
+    that integrate functional genomics and quantitative genetics to identify context-specific 
+    genes and pathways driving complex diseases. 
+    Through this work, she aims to bridge molecular biology and computational innovation to 
+    advance our understanding of disease mechanisms and inform future therapeutic strategies. 
