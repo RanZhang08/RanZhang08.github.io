@@ -165,6 +165,12 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  publications:
+    output: true
+    sort:
+      - year: desc
+      - sortkey: desc   # or "title: desc" or "sortkey: desc" depending on your preference
+
 
 announcements:
   enabled: true
