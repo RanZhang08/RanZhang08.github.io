@@ -1054,23 +1054,48 @@ d-appendix a:hover, d-appendix a.footnote-backlink:hover {
   }
 }
 .lab-members {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+  display: flex;
+  flex-direction: column;
   gap: 2rem;
-  margin-top: 1rem;
+  margin-top: 1.5rem;
 }
 
-.lab-member-card {
-  text-align: center;
+.lab-member-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.5rem;
 }
 
 .lab-photo {
-  width: 160px;
-  height: 160px;
+  width: 120px;
+  height: 120px;
   object-fit: cover;
   border-radius: 50%;
-  margin-bottom: 0.5rem;
+  flex-shrink: 0;
+  margin-top: 0.3rem;
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+.lab-member-info {
+  flex: 1;
+}
+
+.lab-member-info h3 {
+  margin-top: 0;
+}
+
+@media (max-width: 600px) {
+  .lab-member-row {
+    flex-direction: column;
+    text-align: center;
+  }
+  .lab-member-info {
+    text-align: center;
+  }
+  .lab-photo {
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
 
 /*# sourceMappingURL=main.css.map */
