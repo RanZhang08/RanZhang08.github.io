@@ -19,7 +19,7 @@ We are seeking a postdoctoral fellow to join our team to develop and apply machi
 
 
 <strong>PhD positions:</strong> 
-My lab has two positions for PhD students to work at the intersection of machine learning, functional genomics, and human diseases. As an interdisciplinary lab, we are seeking motivated candidates from diverse backgrounds, including computer science, data science, computational biology, and genomics. You are also welcome to email a CV and a short paragraph of your research interest to ranzhang [at] unc.edu to discuss possible PhD programs to apply to if interested.
+My lab has two positions for PhD students to work at the intersection of machine learning, functional genomics, and human diseases. As an interdisciplinary lab, we are seeking motivated candidates from diverse backgrounds, including computer science, data science, computational biology, and genomics. I am primarily taking students from [Ph.D. in Data Science](https://datascience.unc.edu/phd/) and [Bioinformatics and Computational Biology (BCB) curriculum within the Biological and Biomedical Sciences Program (BBSP)](https://bcb.unc.edu/).
 
 
 <strong>About the lab:</strong> 
