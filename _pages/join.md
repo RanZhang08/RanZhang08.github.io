@@ -14,12 +14,12 @@ Dr. Ran Zhang Lab
 School of Data Science and Society, UNC Chapel Hill, NC 27514
 
 
-<strong>Postdoctoral position:</strong> 
-We are seeking a postdoctoral fellow to join our team to develop and apply machine learning methods for integrating multi-omics data to characterize human diseases. The candidate must hold a PhD degree or equivalent in the field of computational biology/machine learning/bioinformatics/data science. Past experiences in working with omics data are preferred but not required. An ideal candidate will have a proactive learning mindset, strong work ethic, ability to independently troubleshoot, collaborative team orientation, and proficient English communication skills in both written and verbal. If interested, please send a CV and cover letter with your research interests to ranzhang [at] unc.edu.
-
-
 <strong>PhD positions:</strong> 
-My lab has two positions for PhD students to work at the intersection of machine learning, functional genomics, and human diseases. As an interdisciplinary lab, we are seeking motivated candidates from diverse backgrounds, including computer science, data science, computational biology, and genomics. I am primarily taking students from [Ph.D. in Data Science](https://datascience.unc.edu/phd/) and [Bioinformatics and Computational Biology (BCB) curriculum within the Biological and Biomedical Sciences Program (BBSP)](https://bcb.unc.edu/).
+My lab has two positions for PhD students to develop and apply machine learning methods on functional genomics data, with the goal of disentangling the molecular basis underlying complex human diseases. As an interdisciplinary lab, we are seeking motivated candidates from diverse backgrounds, including computer science, data science, computational biology, and genomics. I am primarily taking students from [Ph.D. in Data Science](https://datascience.unc.edu/phd/) and [Bioinformatics and Computational Biology (BCB) curriculum within the Biological and Biomedical Sciences Program (BBSP)](https://bcb.unc.edu/).
+
+
+<strong>Postdoctoral position:</strong> 
+We are seeking a postdoctoral fellow to join our team to develop and apply machine learning methods for integrating bulk and single-cell multi-omics data to characterize human diseases. The candidate must hold a PhD degree or equivalent in the field of computational biology/machine learning/bioinformatics/data science. Past experiences in working with omics data are preferred but not required. An ideal candidate will have a proactive learning mindset, strong work ethic, ability to independently troubleshoot, collaborative team orientation, and proficient English communication skills in both written and verbal. If interested, please send a CV and cover letter with your research interests to ranzhang [at] unc.edu.
 
 
 <strong>About the lab:</strong> 
