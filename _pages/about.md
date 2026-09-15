@@ -20,8 +20,8 @@ social: false  # includes social icons at the bottom of the page
 [ORCID](https://orcid.org/0000-0002-7630-1251),
 [CV](/assets/pdf/RanZhang_cv.pdf)
 
-I am an assistant professor at the [School of Data Science and Society](https://datascience.unc.edu/), UNC-Chapel Hill. I am also core faculty in the [Curriculum in Bioinformatics and Computational Biology](https://bcb.unc.edu/).
-Previously, I was a UW Data Science postdoctoral fellow with [Dr. William Noble](https://noble.gs.washington.edu/~wnoble/) at the University of Washington. I did my undergraduate studies at Tsinghua University and my graduate studies at Princeton University, supervised by [Dr. Olga Troyanskaya](https://function.princeton.edu/). My work is supported by the K99/R00 NIH Pathway to Independence Award from NHGRI.
+I am an assistant professor at the School of Data and Information Sciences and the Department of Genetics, UNC-Chapel Hill. I am also core faculty in the Curriculum in Bioinformatics and Computational Biology.
+Previously, I was a UW Data Science postdoctoral fellow with Dr. William Stafford Noble at the University of Washington. I did my undergraduate studies at Tsinghua University and my graduate studies at Princeton University, supervised by Dr. Olga Troyanskaya. My work is supported by the K99/R00 NIH Pathway to Independence Award from NHGRI.
 
 <!--
 I started my career as a wet lab biologist in undergraduate studies. I used a combination of experimental approaches -- including imaging, biochemistry, and cell biology -- to study autophagy in human cell lines and yeast.
